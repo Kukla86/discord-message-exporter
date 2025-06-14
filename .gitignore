@@ -39,4 +39,4 @@ exports/
 *.json
 *.html
 *.txt
-*.csv 
+*.csv .DS_Store
