@@ -36,7 +36,11 @@ ENV/
 
 # Exported files
 exports/
-*.json
+# Исключаем responses_realistic.json и requirements.txt из общего правила
+# *.json
+# *.txt
+!responses_realistic.json
+!requirements.txt
 *.html
-*.txt
-*.csv .DS_Store
+*.csv
+.DS_Store

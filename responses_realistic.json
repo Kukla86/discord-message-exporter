@@ -1,0 +1,231 @@
+{
+  "hi": [
+    "Hey! How's it going?",
+    "Hi there! How was your day?",
+    "Hello! Good to see you",
+    "Hey! What's new?",
+    "Hi! How are you?",
+    "Hey! How are things?",
+    "Hello! How's life?",
+    "Hi! How was your day?"
+  ],
+  "hello": [
+    "hello",
+    "hey",
+    "hi",
+    "yo",
+    "how\u2019s it going",
+    "hiya",
+    "what\u2019s up"
+  ],
+  "gm": [
+    "gm",
+    "morning",
+    "gm guys",
+    "good morning",
+    "yo gm",
+    "gm fam",
+    "morning all"
+  ],
+  "how are you": [
+    "I'm doing great, thanks! How about you?",
+    "Pretty good, hanging in there! How are you?",
+    "Not bad, having a productive day. How about you?",
+    "Doing well, working on some projects. How are things with you?",
+    "Great! Just finished an important task. How about you?",
+    "I'm good, thanks! How are you doing?",
+    "Pretty good, having a productive day. How are things?",
+    "Doing well! Lots of interesting tasks. How about you?"
+  ],
+  "wassup": [
+    "not much",
+    "just chillin",
+    "same old",
+    "trying to stay productive",
+    "lurking",
+    "doing some quests",
+    "scrolling",
+    "you?"
+  ],
+  "happy weekend": [
+    "you too",
+    "enjoy",
+    "same to you",
+    "chill weekend",
+    "rest well",
+    "stay safe"
+  ],
+  "how to get role": [
+    "be active",
+    "chat often and help others",
+    "post something useful",
+    "share content",
+    "do quests",
+    "join events",
+    "check the pinned message",
+    "create value"
+  ],
+  "how to get og": [
+    "be around often",
+    "help others out",
+    "answer questions",
+    "show up consistently",
+    "stay active",
+    "engage with the team",
+    "share ideas",
+    "no shortcut"
+  ],
+  "when tge": [
+    "not confirmed yet",
+    "maybe in august",
+    "they said soon",
+    "nothing official",
+    "still waiting",
+    "could be next month",
+    "your guess is good as mine"
+  ],
+  "how to add wallet": [
+    "try using another browser",
+    "switch in metamask",
+    "refresh the page",
+    "reconnect your wallet",
+    "phantom works too",
+    "try again later",
+    "clear cache"
+  ],
+  "why can't i send messages": [
+    "need a higher role",
+    "channel is restricted",
+    "gain some xp",
+    "only OGs can talk here",
+    "level up first",
+    "wait for access",
+    "verify yourself first"
+  ],
+  "lfg": [
+    "lfg",
+    "let\u2019s go",
+    "we move",
+    "hyped",
+    "time to grind",
+    "on it",
+    "here we go"
+  ],
+  "nice": [
+    "cool",
+    "love that",
+    "sounds good",
+    "looks nice",
+    "that\u2019s great",
+    "clean"
+  ],
+  "lol": [
+    "lol",
+    "haha",
+    "dead \ud83d\ude02",
+    "lmao",
+    "bruh",
+    "truee",
+    "this",
+    "\ud83d\ude2d"
+  ],
+  "true": [
+    "facts",
+    "real",
+    "can\u2019t lie",
+    "100%",
+    "yeah",
+    "yep",
+    "true that"
+  ],
+  "what's up": [
+    "Not much, just working on a project. What about you?",
+    "Same old, coding and stuff. How about you?",
+    "Just working through some tasks. What's new with you?",
+    "Regular day, getting work done. How are things?",
+    "Just coding away. What are you up to?",
+    "Same old, working. How about you?",
+    "Getting things done. What's new with you?",
+    "Just a regular workday. How are things?"
+  ],
+  "bye": [
+    "Bye! Take care!",
+    "See you later! Have a good one!",
+    "Bye! Take it easy!",
+    "Catch you later! Have a good day!",
+    "Bye! Have a good one!",
+    "See you! Take care!",
+    "Bye! Have a great day!",
+    "Later! Take it easy!"
+  ],
+  "thanks": [
+    "You're welcome! Happy to help!",
+    "No problem! Anytime!",
+    "You're welcome! Always happy to help!",
+    "Don't mention it! Feel free to ask!",
+    "You're welcome! Glad I could help!",
+    "No worries! Always here to help!",
+    "You're welcome! Just let me know!",
+    "Don't mention it! Happy to help!"
+  ],
+  "help": [
+    "What can I help you with?",
+    "What do you need? I'm here to help!",
+    "What's your question?",
+    "How can I help?",
+    "What are you looking for?",
+    "What's the question?",
+    "How can I assist you?",
+    "What do you need help with?"
+  ],
+  "good": [
+    "Glad to hear that!",
+    "That's great! Keep it up!",
+    "Awesome! Way to go!",
+    "That's fantastic! Happy for you!",
+    "That's cool! Keep it going!",
+    "That's great! Keep it up!",
+    "Awesome! Glad to hear it!",
+    "That's fantastic! Keep it going!"
+  ],
+  "bad": [
+    "Don't worry, things will get better!",
+    "Hang in there! It'll get better soon!",
+    "Don't be sad, it's temporary!",
+    "Everything will be okay, don't worry!",
+    "Hang in there! Things will improve!",
+    "Don't be sad, it'll pass!",
+    "Everything will be fine, believe me!",
+    "Hang in there! It's just temporary!"
+  ],
+  "yes": [
+    "Great! Let's do it!",
+    "Perfect! I'm on board!",
+    "Awesome! Count me in!",
+    "Sounds good! I'm ready!",
+    "Excellent! Let's get started!",
+    "Perfect! I'm with you!",
+    "Great! I'm in!",
+    "Awesome! Let's go for it!"
+  ],
+  "no": [
+    "No problem, maybe next time!",
+    "That's okay, another time then!",
+    "No worries, we can try later!",
+    "That's fine, let me know if you change your mind!",
+    "No problem, just let me know!",
+    "That's okay, another time!",
+    "No worries, we can do it later!",
+    "That's fine, just say the word!"
+  ],
+  "maybe": [
+    "Take your time to decide!",
+    "No rush, think about it!",
+    "Let me know when you decide!",
+    "Take your time, no pressure!",
+    "Think it over, no hurry!",
+    "Let me know what you decide!",
+    "Take your time, it's okay!",
+    "Think about it, no rush!"
+  ]
+}
